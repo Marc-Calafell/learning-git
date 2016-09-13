@@ -2,513 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e95ad46c-43f2-431d-92de-a83ba3042bc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/fsnotifier" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/fsnotifier-arm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/fsnotifier64" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/libyjpagent-linux.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/libyjpagent-linux64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/webide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/help/ReferenceCard.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/help/ReferenceCardForMac.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/jjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/keytool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/orbd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/pack200" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/policytool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/rmid" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/rmiregistry" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/servertool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/tnameserv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/bin/unpack200" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/jli/libjli.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libavplugin.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libawt.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libawt_headless.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libawt_xawt.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libdecora_sse.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libdt_socket.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libfontmanager.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libfxplugins.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libglass.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libgstreamer-lite.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libhprof.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libinstrument.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libj2gss.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libj2pcsc.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libj2pkcs11.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjaas_unix.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjava.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjava_crw_demo.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjavafx_font.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjavafx_font_freetype.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjavafx_font_pango.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjavafx_iio.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjawt.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjdwp.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjfxmedia.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjfxwebkit.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjpeg.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjsdt.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjsig.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjsound.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libjsoundalsa.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/liblcms.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libmanagement.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libmlib_image.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libnet.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libnio.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libnpt.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libprism_common.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libprism_es2.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libprism_sw.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libsctp.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libsplashscreen.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libsunec.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libunpack.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libverify.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/libzip.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/server/libjsig.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/server/libjvm.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/charsets.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/cmm/CIEXYZ.pf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/cmm/GRAY.pf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/cmm/LINEAR_RGB.pf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/cmm/PYCC.pf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/cmm/sRGB.pf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/currency.data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/cldrdata.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/dnsns.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/jaccess.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/jfxrt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/localedata.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/nashorn.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/sunec.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/sunjce_provider.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/sunpkcs11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/zipfs.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/invalid32x32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/motif_CopyDrop32x32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/motif_CopyNoDrop32x32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/motif_LinkDrop32x32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/motif_LinkNoDrop32x32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/motif_MoveDrop32x32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/motif_MoveNoDrop32x32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/jce.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/jexec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/jfxswt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/jsse.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/management-agent.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/resources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/rt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/security/US_export_policy.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/security/cacerts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/security/local_policy.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/tzdb.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/java.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/jjs.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/keytool.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/orbd.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/pack200.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/rmid.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/servertool.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/lib/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/alloy.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/annotations.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/asm-all.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/asm-commons.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/asm.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/automaton.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/batik-all.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/boot.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/bootstrap.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/cglib-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/cli-parser-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/common-image-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/common-io-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/common-lang-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/commons-codec-1.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/commons-compress-1.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/commons-httpclient-3.1-patched.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/commons-net-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/coverage-agent.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/coverage-instrumenter.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/coverage-util.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/ext/cglib-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/extensions.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/fluent-hc-4.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/forms_rt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/gson-2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/guava-17.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/httpclient-4.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/httpcore-4.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/httpmime-4.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/icons.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/imageio-core-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/imageio-metadata-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/imageio-tiff-3.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/imgscalr-lib-4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/isorelax.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jaxen-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jayatana-1.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jdom.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jettison-1.3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jgoodies-forms.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jh.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jing.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jna-platform.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jna.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsch-0.1.53.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsch.agentproxy.connector-factory.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsch.agentproxy.core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsch.agentproxy.pageant.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsch.agentproxy.sshagent.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsch.agentproxy.usocket-jna.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsch.agentproxy.usocket-nc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsp-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jsr173_1.0_api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/jzlib-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/kotlin-reflect.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/kotlin-runtime.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/linux/x86/libpty.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/linux/x86_64/libpty.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/macosx/x86/libpty.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/macosx/x86_64/libpty.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/win/x86/winpty-agent.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/win/x86/winpty.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/win/x86_64/cyglaunch.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/win/x86_64/winpty-agent.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/win/x86_64/winpty.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/win/xp/winpty-agent.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/libpty/win/xp/winpty.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/log4j.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/markdown4j-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/markdownj-core-0.4.2-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/microba.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/miglayout-swing.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/nanoxml-2.2.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/nekohtml-1.9.14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/netty-all-4.1.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/openapi.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/oromatcher.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/phpstorm.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/picocontainer.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/protobuf-2.5.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/proxy-vole_20131209.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/pty4j-0.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/purejavacomm.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/resolver.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/resources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/rhino-js-1_7R4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/rngom-20051226-patched.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/sanselan-0.98-snapshot.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/serviceMessages.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/slf4j-api-1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/slf4j-log4j12-1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/snappy-in-java-0.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/sqlite-jdbc-3.6.20.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/swingx-core-1.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/trang-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/trove4j.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/trove4j_src.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/util.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/velocity.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/winp-1.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xbean.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xercesImpl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xml-apis-ext.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xml-apis.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xmlgraphics-commons-1.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xmlrpc-2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xpp3-1.1.4-min.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/xstream-1.4.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/lib/yjp-controller-api-redist.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/AngularJS/lib/AngularJS.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/AngularJS/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/CSS/lib/css-openapi.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/CSS/lib/css.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/CSS/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/DatabaseTools/lib/database-impl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/DatabaseTools/lib/database-openapi.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/DatabaseTools/lib/dekaf-single-2.0.0.264.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/DatabaseTools/lib/jdbc-console.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/DatabaseTools/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/IntelliLang/lib/IntelliLang.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/IntelliLang/lib/intellilang-jps-plugin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JSIntentionPowerPack/lib/JSIntentionPowerPack.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JSIntentionPowerPack/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptDebugger/extensions/jb.xpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptDebugger/lib/ChromeConnector.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptDebugger/lib/FirefoxConnector.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptDebugger/lib/JavaEEJavaScriptDebug.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptDebugger/lib/JavaScriptDebugger.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptDebugger/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptDebugger/nashorn-debugger-support.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/lib/commons-io-2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/lib/ecmascript6-compiler.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/lib/javascript-openapi.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/lib/js-test-common.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/lib/NodeJS.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/PerforceIntegration/lib/PerforceIntegration.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/PerforceIntegration/lib/perforce_util.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/PerforceIntegration/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/QuirksMode/lib/quirksmode.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/QuirksMode/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/RefactorX/lib/RefactorX.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/RefactorX/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/apacheConfig/lib/apacheConfig.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/appEngineForPhp/lib/appEngineForPhp.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/appEngineForPhp/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/asp/lib/asp.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/asp/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/behat/lib/behat.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/behat/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/blade/lib/blade.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/blade/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/coffeescript-core/lib/coffeescript-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/coffeescript-core/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/commandLineTool/lib/commandLineTool.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/commandLineTool/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/copyright/lib/copyright.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cucumber/lib/cucumber.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cucumber/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cvsIntegration/lib/cvsIntegration.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cvsIntegration/lib/cvs_util.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cvsIntegration/lib/javacvs-src.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cvsIntegration/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cvsIntegration/lib/smartcvs-src.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/cvsIntegration/lib/trilead-ssh2-build213.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/drupal/lib/drupal.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/drupal/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/fileWatcher/lib/fileWatcher.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/fileWatcher/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/git4idea/lib/git4idea-rt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/git4idea/lib/git4idea.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/git4idea/lib/ini4j-0.5.2-patched.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/git4idea/lib/remote-servers-git.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/git4idea/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/git4idea/lib/trilead-ssh2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/github/lib/github.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/haml/lib/haml.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/haml/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/hg4idea/lib/hg4idea.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/hg4idea/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/htmltools/lib/htmltools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/htmltools/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/ini4idea/lib/ini4idea.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/ini4idea/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/joomla/lib/joomla.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/joomla/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/less/lib/less.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/less/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/localization/lib/localization.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/markdown/lib/Loboevolution.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/markdown/lib/intellij-markdown.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/markdown/lib/markdown.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/markdown/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/performanceTesting/lib/performanceTesting.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/performanceTesting/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/phing/lib/phing.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/phing/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/php/lib/commons-compress-1.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/php/lib/php-openapi.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/php/lib/php.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/php/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/phpstorm-remote-interpreter/lib/phpstorm-remote-interpreter.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/phpstorm-remote-interpreter/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/remote-run/lib/remote-run.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/rest/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/rest/lib/rest.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/restClient/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/restClient/lib/restClient.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/sass/lib/jrubyparser-0.5.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/sass/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/sass/lib/sass.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/settings-repository/lib/jackson-annotations-2.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/settings-repository/lib/jackson-core-2.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/settings-repository/lib/jackson-databind-2.7.1-1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/settings-repository/lib/jgit.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/settings-repository/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/settings-repository/lib/settings-repository.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/antlr.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/jsch.agentproxy.svnkit-trilead-ssh2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/sequence-library.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/sqljet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/sqljetsrc.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/svn4idea.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/svnkit-javahl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/svnkit-javahl16.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/svnkit.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/trilead.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/trileadsrc.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks-time-tracking/lib/tasks-time-tracking.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/axis-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/axis-jaxrpc-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/axis-saaj-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/commons-discovery-0.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/jira.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/json-path-0.8.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/json-smart-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/tasks-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/tasks-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/tasks/lib/wsdl4j-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/terminal/lib/jediterm-pty-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/terminal/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/terminal/lib/terminal.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/jcodings.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/joni.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/textmate.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/twig/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/twig/lib/twig.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/uml/lib/diagram-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/uml/lib/uml-support.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/vagrant/lib/jrubyparser-0.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/vagrant/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/vagrant/lib/vagrant.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/w3validators/lib/jigsaw-2.2.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/w3validators/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/w3validators/lib/tagsoup-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/w3validators/lib/w3-css-validator.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/w3validators/lib/w3validators.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/webDeployment/lib/commons-vfs2-2.1-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/webDeployment/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/webDeployment/lib/webDeployment.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/wordPress/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/wordPress/lib/wordPress.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xpath/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xpath/lib/rt/xslt-rt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xpath/lib/xpath.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/rmi-stubs.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/rt/saxon.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/rt/saxon9he.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/rt/serializer.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/rt/xalan.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/rt/xslt-debugger-engine-impl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/xslt-debugger-engine.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/xslt-debugger/lib/xslt-debugger.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/yaml/lib/resources_en.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/yaml/lib/yaml.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/learning-git.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/Install-Linux-tar.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/idea.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/inspect.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/log.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/phpstorm.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/phpstorm.vmoptions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/bin/phpstorm64.vmoptions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/build.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/ASSEMBLY_EXCEPTION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/THIRD_PARTY_README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/jvm.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/amd64/server/Xusage.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/calendars.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/classlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/content-types.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/ext/meta-index" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/flavormap.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/hijrah-config-umalqura.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/images/cursors/cursors.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/javafx.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/jvm.hprof.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/logging.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/management/jmxremote.access" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/management/jmxremote.password.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/management/management.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/management/snmp.acl.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/meta-index" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/net.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/psfont.properties.ja" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/psfontj2d.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/security/blacklisted.certs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/security/java.policy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/security/java.security" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/lib/sound.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/policytool.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/rmiregistry.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/tnameserv.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/ja_JP.UTF-8/man1/unpack200.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/java.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/jjs.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/keytool.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/orbd.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/pack200.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/policytool.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/rmid.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/rmiregistry.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/servertool.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/tnameserv.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/man/man1/unpack200.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/jre/jre/release" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/grunt_js/lib/grunt-intellij-util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/grunt_js/tasks/grunt-tasks-fetcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/bridge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/compilerFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es7.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/external/tsserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/js-language-service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/out-path-process.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/ts-compiler-host-impl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/typescript/compile-info-holder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/typescript/logger-impl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/typescript/service-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/typescript/ts-plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/JavaScriptLanguage/typescriptCompiler/typescript/ts-session.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/lib/mocha-intellij-stringifier.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/lib/mochaIntellijReporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/lib/mochaIntellijTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/lib/mochaIntellijUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/lib/mochaTreeUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/lib/single-element-queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/mocha-intellij/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/node-core-modules/node-core-modules-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/NodeJS/js/nodeunit/nodeunit-intellij-starter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/ANTLR-LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/CHANGES.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/COPYING" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/LICENSE-ANTLR.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/LICENSE-JAVAHL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/LICENSE-JNA.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/LICENSE-SEQUENCE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/LICENSE-SQLJET.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/LICENSE-TRILEAD.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/SEQUENCE-LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/SQLJET-LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/SQLJET-README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/TRILEAD-LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/svn4idea/lib/licenses/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/terminal/lib/jediterm.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/All Hallow's Eve.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/Blackboard.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/Cobalt.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/Darcula.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/Github.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/IR_Black.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/Monokai.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/RailsCasts.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/Twilight.tmTheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PhpStorm-162.1889.1/plugins/textmate/lib/themes/default.tmTheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learning-git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -529,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -539,7 +33,34 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="asf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dfg.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dfgh/dfg.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -548,6 +69,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dfgh/dfg.html" />
       </list>
     </option>
   </component>
@@ -559,10 +81,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="445" />
-    <option name="y" value="131" />
-    <option name="width" value="1355" />
-    <option name="height" value="836" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1375" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -607,6 +129,34 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-git" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpStorm-162.1889.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-git" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dfgh" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -615,6 +165,49 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -626,18 +219,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473788620203</updated>
-      <workItem from="1473788622457" duration="546000" />
+      <workItem from="1473788622457" duration="876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="546000" />
+    <option name="totallyTimeSpent" value="876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="445" y="131" width="1355" height="836" extended-state="0" />
+    <frame x="65" y="24" width="1375" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2582124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25432655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -676,6 +269,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfgh/dfg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
